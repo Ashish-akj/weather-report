@@ -6,7 +6,7 @@
 
 /* --------------------background */
 .container-fluid{
-    background-image: url(./img/bg7.jpg);
+    background-image: url(./imgs/bg7.jpg);
     background-size: cover;
     height:auto;
 }
@@ -18,7 +18,7 @@
 }
 /* -----------------------------header */
 .header {
-    background-image: url(./img/header.jpg);
+    background-image: url(./imgs/header.jpg);
     background-size: cover;
     background-position: relative;
     color: rgb(228, 91, 11);
